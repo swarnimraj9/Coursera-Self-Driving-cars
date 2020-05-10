@@ -1,0 +1,3 @@
+This project was done on coursera in the duration of 27-April-2020 to 09-May-2020 and is the first of four courses in the University of Toronto's Self-Driving Cars specialization.
+In this project's final module I had to modify a skeletal code and make it follow a series of provided waypoints in terms of x & y co-ordinates and also given the speed at each waypoint. The simulation was done on Carla Simulator and the background code was written in python.
+The controller was supposed to perform lateral and longitudinal control on the vehicle. The longitudinal control was taken kare by the PID controller's input to the throttle and the lateral control was implemented through the Stanley steering model.
